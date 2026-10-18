@@ -15,7 +15,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Computer Engineering graduate from Çanakkale Onsekiz Mart University (2026)
+- 🎓 Computer Engineering graduate from Kütahya Health Sciences University (2026)
 - 🌍 Erasmus+ exchange student at WSB Merito University, Poznań, Poland
 - 🚀 Built and deployed a full-stack social travel app — **Seyahood** — with JWT auth, REST API, Docker & UptimeRobot
 - 🤖 Passionate about ML & Computer Vision — worked on eye disease detection, face recognition, and cancer classification
